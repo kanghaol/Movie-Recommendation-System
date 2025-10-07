@@ -3,6 +3,7 @@
 
 Run with Docker by running 'docker compose up' in the root folder.
 Then it will be on localhost port 3000
+P.S. You will need an api key from TMDB to fetch movie posters
 
 ## 🎬 Demo
 
