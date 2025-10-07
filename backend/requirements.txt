@@ -1,0 +1,10 @@
+flask
+pymongo
+bcrypt
+flask-socketio
+torch 
+scikit-learn
+flask_cors
+pandas
+python-dotenv
+requests

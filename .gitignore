@@ -1,0 +1,6 @@
+.env
+.env*.local
+/build
+__pycache__/
+node_modules/
+mongo-data/

@@ -1,0 +1,8 @@
+flask
+pymongo
+bcrypt
+flask-socketio
+scikit-learn
+flask_cors
+pandas
+# Note: torch, torchvision, torchaudio removed for faster installs. Add them manually if needed.
