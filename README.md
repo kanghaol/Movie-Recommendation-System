@@ -6,6 +6,6 @@ Then it will be on localhost port 3000
 
 ## 🎬 Demo
 
-![Demo Preview](demo/demo-preview.gif)
+![Demo Preview](Demo/demo-preview.gif)
 
-[▶️ Watch the full demo video (1:26)](demo/demo.mp4)
+[▶️ Watch the full demo video (1:26)](Demo/demo.mp4)
